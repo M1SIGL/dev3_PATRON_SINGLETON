@@ -1,0 +1,54 @@
+Structure du dossier pour le volume New Volume
+Le numéro de série du volume est 4445-4ACE
+D:.
+|   arborescence.txt
+|   dev3_PATRON_SINGLETION_CHIENDJE_KOYEU_LEONEL.docx
+|   dev3_PATRON_SINGLETION_CHIENDJE_KOYEU_LEONEL.pdf
+|   README.md
+|   
++---.vscode
+|       settings.json
+|       
++---bin
+|   +---exemple1__du_cours
+|   |       Main.class
+|   |       Singleton.class
+|   |       
+|   +---exemple2_du_cours
+|   |       Modele_exemple2.dia
+|   |       Modele_exemple2.dia~
+|   |       Singleton.class
+|   |       TestSingleton.class
+|   |       
+|   +---exemple_fait_en_salle_dbconnexion
+|   |       App.class
+|   |       Connexion.class
+|   |       
+|   \---modelegenerique
+|           Modele_generique.dia
+|           
++---lib
+\---src
+    +---exemple1__du_cours
+    |       Exemple1_du_cours.dia
+    |       Exemple1_du_cours.jpeg
+    |       Main.java
+    |       Singleton.java
+    |       
+    +---exemple2_du_cours
+    |       Exemple2_du_cours.dia
+    |       Exemple_2_du_cours.jpeg
+    |       Singleton.java
+    |       TestSingleton.java
+    |       
+    +---exemple_fait_en_salle_dbconnexion
+    |       App.java
+    |       Connexion.java
+    |       Exemple_tp_du_sam_21_11_2026.dia
+    |       Exemple_tp_du_sam_21_11_2026.jpeg
+    |       
+    \---modelegenerique
+            Modele_generique.dia
+            Modele_generique.dia~
+            Modele_generique.jpeg
+            
